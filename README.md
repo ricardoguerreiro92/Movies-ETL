@@ -5,3 +5,6 @@
 
 ## Ratings Query
 ![ratings_query](/Resources/ratings_query.png)
+
+
+### RESULTS/SUMMARY/CONCLUSION TO BE FINISHED
